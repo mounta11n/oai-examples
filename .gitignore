@@ -130,3 +130,9 @@ dist
 .pnp.*
 .DS_Store
 py/_output.mp3
+
+js/create-transcript-et-mdnote.mjs
+js/audio.m4a
+js/audio-full.m4a
+js/transcription-full.txt
+js/transcription.txt
